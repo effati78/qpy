@@ -1,3 +1,4 @@
+# Exam
 # سوال سه
 
 str = input()

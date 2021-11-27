@@ -1,3 +1,4 @@
+# Exam
 # سوال دو
 
 from random import randrange
