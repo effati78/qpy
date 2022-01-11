@@ -12,4 +12,5 @@ Solve questions with the Python programming language
   <li> <a href="https://github.com/effati78/qpy/tree/master/sec7"> section 7 </a> (4Q) </li>
   <li> <a href="https://github.com/effati78/qpy/tree/master/sec8"> section 8 </a> (4Q) </li>
   <li> <a href="https://github.com/effati78/qpy/tree/master/sec9"> section 9 </a> (5Q) </li>
+  <li> <a href="https://github.com/effati78/qpy/tree/master/sec10"> section 10 </a> (2Q) </li>
 </ul>
